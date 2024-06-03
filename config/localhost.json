@@ -1,0 +1,10 @@
+{
+    "SERVER_PORT":6000,
+    "DB_PORT":5432,
+    "DB_USER":"postgres",
+    "DB_HOST":"localhost",
+    "DB_PASSWORD":"Anant@123",
+    "DB_NAME":"user",
+    "SECRET_KEY":"386c0b143d084a040074be78cbe82635e2e0750b6e8cb114c26276bb6d3b4d54",
+    "JWT_EXPIRATION_MINUTES":30
+}
